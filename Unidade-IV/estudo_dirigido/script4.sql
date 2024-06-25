@@ -13,8 +13,6 @@ GROUP BY palco;
 SELECT nome_patrocinador, valor
 FROM patrocinadores
 WHERE valor > 7000;
-Paulo Gonçalo Farias Gonçalves
-21:13
 
 -- Consulta 4: Listar todas as atrações que ocorrem após um certo horário
 SELECT *
